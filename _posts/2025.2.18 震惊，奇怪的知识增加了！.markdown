@@ -1,0 +1,25 @@
+---
+layout: post
+title: "如何登入哔哩哔哩？"
+subtitle: "震惊，奇怪的知识增加了！"
+author: "Oscar3tr"
+header-img: "post-bg-js-module.jpg"
+header-mask: 0.3
+mathjax: true
+tags:
+  - 哔哩哔哩
+  - bilibili
+---
+
+很多人都不知道如何打开哔哩哔哩，今天长知识了，原来打开哔哩哔哩这么简单！下面就跟小编一起来看看如何打开哔哩哔哩吧！
+[点击这里就可以打开哔哩哔哩了！](https://www.bilibili.com/)
+
+好叭这其实是一个测试（）
+
+<br>
+
+注：
+
+1. 一号链接[测试地址1]（https://www.meipian.cn/50lgxgys?first_share_to=group_singlemessage&share_depth=1&first_share_uid=505296565）
+2. 二号链接[测试地址2]（https：//4399.com）
+3. 三号链接[测试地址3]（https://www.bilibili.com/video/BV12H4y1N7Q4?spm_id_from=333.788.videopod.sections）
