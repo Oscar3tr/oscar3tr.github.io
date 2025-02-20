@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "测试喔"
+title:        "超链接测试"
 author:       "Oscar"
 tags:
     - hotel
