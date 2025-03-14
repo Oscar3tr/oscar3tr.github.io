@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "新的开始"
-subtitle：    “在天蓝的梦境中起舞吧”
+subtitle:    “在天蓝的梦境中起舞吧”
 author:       "Oscar"
 tags:
     - Oscar
