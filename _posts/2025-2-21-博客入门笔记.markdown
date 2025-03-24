@@ -6,7 +6,7 @@ author:       "Oscar"
 header-style: text   
 catalog:      true    
 date:       2025-02-21 00:00:00   
-header-painting: "painting/海贝狐1.png"   
+header-painting: "img/sea.jpg"
 header-mask: 0.4  
 published: false    
 tags: 
@@ -36,7 +36,7 @@ author:       "Oscar"  （作者）
 header-style: text   （好像是控制页眉是文字还是图片的）
 catalog:      true    （目录？）
 date:       2025-02-21 00:00:00    （日期）
-header-painting: "painting/海贝狐1.png"    （页眉图片，和header-style: text冲突）
+header-painting: "img/sea.jpg"    （页眉图片，和header-style: text冲突）
 header-mask: 0.4   （页眉亮度）
 published: false    （已发布的）
 tags:   （标签）
