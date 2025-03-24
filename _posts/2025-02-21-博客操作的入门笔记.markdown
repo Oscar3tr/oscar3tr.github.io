@@ -8,7 +8,7 @@ catalog:      true
 date:       2025-02-21 00:00:00   
 header-painting: "img/sea.jpg"
 header-mask: 0.4  
-published: false    
+published: true    
 tags: 
     - 标签
     - 操作指南  
