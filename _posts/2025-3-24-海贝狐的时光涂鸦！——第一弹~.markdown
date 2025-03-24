@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "-海贝狐的时光涂鸦！-"
+title:        "「海贝狐的时光涂鸦！」"
 subtitle:      "——第一弹~"
 author:       "Oscar"
 header-img: "painting/2025-3-HeiberFox1.jpg"
