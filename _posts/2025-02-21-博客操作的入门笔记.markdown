@@ -28,21 +28,19 @@ tags:
  # 代码框
 
  ```ts
----
 layout:       post   （这是布局）
 title:        "-博客操作对照表-"
 subtitle:      "-这是副标题-"
 author:       "Oscar"  （作者）
-header-style: text   （好像是控制页眉是文字还是图片的）
+header-style: text    （好像是控制页眉是文字还是图片的）
 catalog:      true    （目录？）
 date:       2025-02-21 00:00:00    （日期）
 header-painting: "img/sea.jpg"    （页眉图片，和header-style: text冲突）
-header-mask: 0.4   （页眉亮度）
-published: false    （已发布的）
+header-mask: 0.4   （页眉亮度，越高越暗）
+published: false    （已发布的：true开启，false关闭  **默认开启，关闭会隐藏帖子**）
 tags:   （标签）
     - 标签
     - tag  
----
 ```
 
  
