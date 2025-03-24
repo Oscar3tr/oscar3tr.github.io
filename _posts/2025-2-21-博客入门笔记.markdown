@@ -1,0 +1,19 @@
+---
+layout:       post   （这是布局）
+title:        "-博客操作对照表-"
+subtitle:      "-这是副标题-"
+author:       "Oscar"  （作者）
+header-style: text   （好像是控制页眉是文字还是图片的）
+catalog:      true    （目录？）
+date:       2025-02-21 00:00:00    （日期）
+header-painting: "painting/海贝狐1.png"    （页眉图片，和header-style: text冲突）
+header-mask: 0.4   （页眉亮度）
+published: false    （已发布的）
+tags:   （标签）
+    - 标签
+    - tag  
+---
+**布局开头结尾要打： ---  注意输入法得是英文的！！！**
+>**一级标题**
+>>***二级标题***
+>>>*你懂得*
