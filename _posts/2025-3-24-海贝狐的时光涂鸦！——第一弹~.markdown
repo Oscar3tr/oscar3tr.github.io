@@ -5,6 +5,8 @@ subtitle:      "——第一弹~"
 author:       "Oscar"
 header-style: text
 catalog:      true
+header-painting: "painting/海贝狐1.png"
+header-mask: 0.4
 tags:
     - 时光涂鸦！
     - 海贝狐
