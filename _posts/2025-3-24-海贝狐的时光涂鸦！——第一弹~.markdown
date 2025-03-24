@@ -3,7 +3,7 @@ layout:       post
 title:        "海贝狐的时光涂鸦！"
 subtitle:      "——第一弹~"
 author:       "Oscar"
-header-painting: "painting/2025-3-HeiberFox1.jpg"
+header-img: "painting/2025-3-HeiberFox1.jpg"
 header-mask: 0.2
 date:       2025-03-24 9:00:00
 catalog:      true
