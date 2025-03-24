@@ -2,10 +2,10 @@
 title: Oscar Blog
 SEOTitle: 奥斯卡的博客 | Oscar Blog
 header-img: img/sea.jpg
-email: 235*******@qq.com
+email: 2********2@qq.com
 description: "这里是 奥斯卡 的个人博客，与你一起发现更大的世界"
 keyword: "奥斯卡, 奥斯卡的博客, 博客, 个人网站, 互联网"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://oscar3tr.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
