@@ -11,4 +11,8 @@ tags:
     - 我的图画
 ---
  
- ![painting](painting/海贝狐1.png)
+ ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-%E6%B5%B7%E8%B4%9D%E7%8B%901.png)
+ 
+ ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-%E6%B5%B7%E8%B4%9D%E7%8B%902.png)
+ 
+ ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-%E6%B5%B7%E8%B4%9D%E7%8B%903.png)
