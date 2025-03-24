@@ -5,7 +5,7 @@ subtitle:      "——第一弹~"
 author:       "Oscar"
 header-style: text
 catalog:      true
-header-painting: "img/painting/March 2025-Heiber Fox1.jpg"
+header-painting: "painting/2025-3-HeiberFox1.jpg"
 header-mask: 0.6
 tags:
     - 时光涂鸦！
@@ -13,8 +13,8 @@ tags:
     - 我的图画
 ---
  
- ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-Heiber%20Fox1.jpg)
+ ![](painting/2025-3-HeiberFox1.jpg)
  
- ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-Heiber%20Fox3.jpg)
+ ![](painting/2025-3-HeiberFox3.jpg)
  
- ![painting](https://github.com/Oscar3tr/oscar3tr.github.io/blob/master/painting/March%202025-Heiber%20Fox2.jpg)
+ ![](painting/2025-3-HeiberFox2.jpg)
